@@ -1,0 +1,5 @@
+person\zhangyu\cola\domain\customer\domainservice\CreditChecker.class
+person\zhangyu\cola\domain\gateway\CreditGateway.class
+person\zhangyu\cola\domain\customer\Credit.class
+person\zhangyu\cola\domain\gateway\CustomerGateway.class
+person\zhangyu\cola\domain\customer\Customer.class

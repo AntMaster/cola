@@ -1,0 +1,10 @@
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\domainmodel\Customer.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\api\CustomerServiceI.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\domainevent\CustomerCreatedEvent.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\CustomerListByNameQry.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\domainmodel\SourceType.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\domainmodel\CustomerType.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\domainmodel\ErrorCode.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\domainmodel\CompanyType.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\CustomerAddCmd.java
+F:\proejct\mineTest\cola\cola-client\src\main\java\person\zhangyu\cola\dto\domainevent\DomainEventConstant.java

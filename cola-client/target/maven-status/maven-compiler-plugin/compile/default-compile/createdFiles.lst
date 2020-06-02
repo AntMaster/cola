@@ -1,0 +1,10 @@
+person\zhangyu\cola\dto\domainevent\DomainEventConstant.class
+person\zhangyu\cola\dto\domainmodel\Customer.class
+person\zhangyu\cola\dto\CustomerAddCmd.class
+person\zhangyu\cola\api\CustomerServiceI.class
+person\zhangyu\cola\dto\domainmodel\SourceType.class
+person\zhangyu\cola\dto\domainmodel\CompanyType.class
+person\zhangyu\cola\dto\domainmodel\CustomerType.class
+person\zhangyu\cola\dto\domainmodel\ErrorCode.class
+person\zhangyu\cola\dto\CustomerListByNameQry.class
+person\zhangyu\cola\dto\domainevent\CustomerCreatedEvent.class
